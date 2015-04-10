@@ -1,1 +1,4 @@
-# iesa-2015-a3-mobile
+# Cordova faq
+ * cordova build
+ * cordova prepare
+ * cordova compile
